@@ -1,0 +1,1 @@
+In this project, I used Terraform to automate infrastructure development in AWS including the creation of an EC2 instance in the default VPC configuration
